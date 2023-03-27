@@ -1,0 +1,75 @@
+@media (max-width:652px){
+    
+    header{
+        display: contents;
+    }
+    header .logo{
+        width: 100%;
+        margin: 0;
+        padding: 0;
+        text-align: center;
+    }
+        header .inicio{
+            margin: 0;
+            padding: 0;
+            width: 100%;
+            text-align: center;
+        }
+
+        header .logobilheteria{
+            margin: 0;
+            padding: 0;
+            width: 90%;
+        }
+        main{
+            display: contents;
+            
+        }
+        main .imagemfinal{
+            margin: 0;
+            padding: 0;
+            width: 100%;
+            height: auto;
+            
+        }
+
+
+}
+@media (max-width:1052px){
+   header{
+    display: contents;
+   }
+   header{
+    text-align: center;
+   }
+header .logo{
+    width: 400px;
+    height: 50%;
+    margin: 0;
+    padding: 0;
+}
+   header .inicio{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+   }
+   header .logobilheteria{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+   }
+   main{
+    display: contents;
+   }
+   main .imagemfinal{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+   }
+}
+
+@media (max-width:493px){
+    header .logo{
+        width: 60%;
+    }
+}
